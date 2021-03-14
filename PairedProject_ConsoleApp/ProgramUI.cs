@@ -288,7 +288,7 @@ namespace PairedProject_ConsoleApp
                     Console.WriteLine("WROOONG! This is not correct. Correct answer: 1945");
                     break;
                 case 3:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point ");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point ");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 4:
@@ -346,7 +346,7 @@ namespace PairedProject_ConsoleApp
                     Console.WriteLine("WROOONG! This is not correct. Correct answer:Guillotine ");
                     break;
                 case 4:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point ");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point ");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 default:
@@ -390,7 +390,7 @@ namespace PairedProject_ConsoleApp
             switch (answerInt)
             {
                 case 1:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point ");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point ");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 2:
@@ -448,7 +448,7 @@ namespace PairedProject_ConsoleApp
 
                     break;
                 case 2:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point ");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point ");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 3:
@@ -508,7 +508,7 @@ namespace PairedProject_ConsoleApp
                     Console.WriteLine("WROOONG! This is not correct. Correct answer: Electro");
                     break;
                 case 3:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point ");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point ");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 4:
@@ -565,7 +565,7 @@ namespace PairedProject_ConsoleApp
                     Console.WriteLine("WROOONG! This is not correct. Correct answer: Albus Dumbledore ");
                     break;
                 case 4:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 default:
@@ -618,7 +618,7 @@ namespace PairedProject_ConsoleApp
                     Console.WriteLine("WROOONG! This is not correct. Correct answer:Jack Sparrow ");
                     break;
                 case 4:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 default:
@@ -653,7 +653,7 @@ namespace PairedProject_ConsoleApp
             Console.WriteLine("In Happy Gilmore, what was the main sport in the movie? \n" +
                 "1) Football \n" +
                 "2) Golf \n" +
-                "3) Tenis \n" +
+                "3) Tennis\n" +
                 "4) Cricket");
             string correctAnswer = Console.ReadLine();
             int answerInt = int.Parse(correctAnswer);
@@ -661,11 +661,11 @@ namespace PairedProject_ConsoleApp
             switch (answerInt)
             {
                 case 1:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point ");
+                    Console.WriteLine("WROOONG! This is not correct. Correct answer: Golf");
 
                     break;
                 case 2:
-                    Console.WriteLine("WROOONG! This is not correct. Correct answer: Golf");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point ");
                     break;
                 case 3:
                     Console.WriteLine("WROOONG! This is not correct. Correct answer: Golf ");
@@ -715,7 +715,7 @@ namespace PairedProject_ConsoleApp
             switch (answerInt)
             {
                 case 1:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point ");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point ");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 2:
@@ -775,7 +775,7 @@ namespace PairedProject_ConsoleApp
                     Console.WriteLine("WROOONG! This is not correct. Correct answer: Link");
                     break;
                 case 3:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point  ");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point  ");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 4:
@@ -822,7 +822,7 @@ namespace PairedProject_ConsoleApp
             switch (answerInt)
             {
                 case 1:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 2:
@@ -876,7 +876,7 @@ namespace PairedProject_ConsoleApp
             switch (answerInt)
             {
                 case 1:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 2:
@@ -934,7 +934,7 @@ namespace PairedProject_ConsoleApp
 
                     break;
                 case 2:
-                    Console.WriteLine(" Congradulations! Your answer was correct! you just won 1 point ");
+                    Console.WriteLine(" Congratulations! Your answer was correct! you just won 1 point ");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 3:
@@ -990,7 +990,7 @@ namespace PairedProject_ConsoleApp
 
                     break;
                 case 2:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 3:
@@ -1042,7 +1042,7 @@ namespace PairedProject_ConsoleApp
             switch (answerInt)
             {
                 case 1:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 2:
@@ -1105,7 +1105,7 @@ namespace PairedProject_ConsoleApp
                     Console.WriteLine(" WROOONG! This is not correct . Correct answer: 27");
                     break;
                 case 4:
-                    Console.WriteLine("Congradulations! Your answer was correct! you just won 1 point");
+                    Console.WriteLine("Congratulations! Your answer was correct! you just won 1 point");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 default:
@@ -1156,7 +1156,7 @@ namespace PairedProject_ConsoleApp
                     Console.WriteLine("WROOONG! This is not correct. Correct answer: Bourbon");
                     break;
                 case 3:
-                    Console.WriteLine(" Congradulations! Your answer was correct! you just won 1 point ");
+                    Console.WriteLine(" Congratulations! Your answer was correct! you just won 1 point ");
                     _repoWalled.AddCashToWallet(1);
                     break;
                 case 4:
